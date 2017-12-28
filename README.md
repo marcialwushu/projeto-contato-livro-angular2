@@ -1,4 +1,10 @@
-# ProjetoContato
+# Projeto Contato Livro Angular2
+
+### Disciplina de Programação para Internet 2
+
+### Curso de Sistemas para Internet na FGF
+
+![](https://pbs.twimg.com/profile_images/815895585417023488/_zfDlgKc.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
